@@ -5,7 +5,7 @@ This Python script retrieves a random fact and sends it as a notification to my 
 ## Setup
 
 ### Tools used:
-<a href="https://api-ninjas.com/api/facts" target="_blank">Notifications API: PushBullet</a> <br />
+<a href="https://api-ninjas.com/api/facts" target="_blank">Software to recieve notification & Notifications API: PushBullet</a> <br />
 <a href="https://www.pushbullet.com/" target="_blank">Facts API: API Ninjas</a> <br />
 <a href="https://www.pythonanywhere.com/" target="_blank">Hosting: PythonAnywhere</a> <br />
 *All will require creating an account*
