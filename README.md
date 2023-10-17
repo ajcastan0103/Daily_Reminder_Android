@@ -1,6 +1,6 @@
-# Fact of the day bot
+# Fact of The Day Bot
 
-This Python script retrieves a random fact and sends it as a notification using the Pushbullet API every 8am EST.
+This Python script retrieves a random fact and sends it as a notification to my android device every 8am EST.
 
 ## Setup
 
